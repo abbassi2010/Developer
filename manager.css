@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+    color: red;
+}
+p.a{
+    text-decoration: wavy;
+}
+p.b{
+    text-decoration: dotted;
+}
